@@ -1,0 +1,8 @@
+package org.example.droolsboot.rules
+
+rule "print string if length is less than 7"
+    when
+        $s: String(length < 7)
+    then
+        System.out.println($s);
+end
