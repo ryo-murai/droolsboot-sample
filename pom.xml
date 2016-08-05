@@ -69,7 +69,7 @@
 
 	<modules>
 		<module>droolsboot-rules</module>
-		<module>droolsboot-jar</module>
+		<module>droolsboot-main</module>
 	</modules>
 
 </project>

@@ -109,6 +109,9 @@ fabric.properties
 # .idea/misc.xml 
 # *.ipr
 
+### Intellij Additional ###
+.idea/
+*.iml
 
 ### Maven ###
 target/
